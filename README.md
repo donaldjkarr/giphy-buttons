@@ -1,3 +1,7 @@
+## Giphy Buttons
+
+Uses giphy API to append user gif search to the screen while creating a new button rendered to the screen.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/donaldjkarr/giphy-buttons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
